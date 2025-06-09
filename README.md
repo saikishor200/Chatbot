@@ -83,9 +83,7 @@ Question: {question}
 - **Streamlit** (for chatbot UI)
 - **Python** (with Pandas, NumPy, and other dependencies)
 ## Interface Preview  
-Here is a preview of the chatbot interface:  
-
-![Chatbot Interface](/images/chatbot.png)  
+  
 ## License
 This project is open-source under the **MIT License**.
 
